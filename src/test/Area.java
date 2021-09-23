@@ -18,6 +18,5 @@ public class Area
         bredth = scan.nextInt();
         
         int arearect = length * bredth;
-        System.out.println("Area of rect is "+arearect);
-    }
+        System.out.println("Area of rect is "+arearect);}
 }

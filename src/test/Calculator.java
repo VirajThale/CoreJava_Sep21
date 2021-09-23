@@ -8,11 +8,11 @@ public static void main (String[] args) {
 	
 	sum= num1+num2;
 	System.out.println("Your sum:"+sum);
-	int sub= num1 - num2;
+	int sub= num1-num2;
 	System.out.println("your sub:"+sub);
 	int mul= num1*num2;
 	System.out.println("your mul: "+sum);
-	float div= num1 / num2;
+	float div= num1/num2;
 	System.out.println("your div:"+div);
 			
 	

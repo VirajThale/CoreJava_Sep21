@@ -9,5 +9,5 @@ public static void main (String[] args) {
 	System.out.println("Your length "+ fullname.length());
 	String newname = fullname.replace("" ,",");
 	System.out.println("new name"+newname);
-}
+	}
 }

@@ -21,7 +21,7 @@ public static void main (String[] args) {
 	
 
 	String [] words1 =arrstr.trim().split(" ");
-	System.out.println(words1.length);
+	System.out.println(words1.length); //string len
 	
 }
 

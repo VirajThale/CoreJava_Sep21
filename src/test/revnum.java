@@ -10,10 +10,8 @@ public static void main (String[] args) {
 	int r= n1%10;
 	System.out.print(r);
 	count++;
-	n1=n1/10;
+	n1=n1/10;}
 	
-	
-	}
 	System.out.println("count is "+count);
 }
 }
