@@ -1,7 +1,4 @@
-
 package test;
-
-import javax.swing.plaf.synth.SynthSpinnerUI;
 
 public class StringExample {
 public static void main (String[] args) {
