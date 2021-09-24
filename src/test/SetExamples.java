@@ -9,7 +9,6 @@ public class SetExamples {
 
 		HashSet<String> hash =new HashSet<String>();
 		
-		
 		hash.add("Name1");
 		hash.add("Name2");
 		hash.add("Name3");
