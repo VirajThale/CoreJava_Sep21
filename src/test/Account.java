@@ -1,6 +1,7 @@
 package test;
 
 public class Account 
+
 {
 	private int balance;
 	public int getBalance() {
