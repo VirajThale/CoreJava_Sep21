@@ -1,4 +1,4 @@
-package test;
+package Test;
 
 public class Polymorphiexample {
 	public void add(int a , int b) {
