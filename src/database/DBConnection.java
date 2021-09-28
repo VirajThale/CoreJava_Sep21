@@ -21,12 +21,13 @@ public class DBConnection {
 		return  this.con;
 		
 	}
-	public  void closeConnection () throws SQLException{
+	public  void closeConnection () throws SQLException
+	{
 		
 		if(this.con!=null)
 			this.con.close();
 		
-		closeConnection();
+		
 		
 		
 	}

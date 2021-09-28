@@ -21,7 +21,7 @@ public class DBTest {
 		//statement.executeUpdate("drop database mydatabase");
 		//statement.executeUpdate("update eproduct set ID=4 where name='Mobile'");
 		
-		statement1.setString(1, "Washing M/c");
+		statement1.setString(1, "Washing Machine");
 		statement1.setInt(2 ,5000);
 		statement1.executeUpdate();
 		
